@@ -11,5 +11,6 @@
 
 *ССылка на проект*
 https://github.com/misjanit/russian-travel
+https://misjanit.github.io/russian-travel/
 
 Enjoy!
