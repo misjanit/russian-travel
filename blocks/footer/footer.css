@@ -1,6 +1,5 @@
 .footer {
     width: 1184px;
-    height: 18px;
     display: flex;
     flex-direction: row;
     align-content: flex-start;
@@ -24,7 +23,6 @@
     .footer {
         flex-direction: column;
         width: 186px;
-        height: 310px;
         margin: 0px 0px 0px 16px;
     }
 }
