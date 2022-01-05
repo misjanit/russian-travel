@@ -1,12 +1,12 @@
 .page {
-    width: 1280px;
+    width: 100%;
     background-color: #2A2C2F;
     color: white;
-    font-family: Inter;
+    font-family: "Inter", "Arial ", sans-serif;
     font-style: normal;
 }
 
-@media screen and (max-width: 1024px) {
+/*@media screen and (max-width: 1024px) {
     .page {
         width: 1024px;
     }
@@ -22,4 +22,4 @@
     .page {
         width: 320px;
     }
-}
+} */

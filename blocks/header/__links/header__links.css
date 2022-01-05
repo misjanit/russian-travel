@@ -1,6 +1,7 @@
 .header__links {
-    width: 78px;
-    margin: auto 0px 0px auto;
+    max-width: 78px;
+    width: 100%;
+    margin: 0px 0px 0px auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
