@@ -15,9 +15,16 @@
     }
 }
 
-@media screen and (max-width: 430px) {
+/* ниже точка где шрифт 96px выходит за рамки страницы */
+@media screen and (max-width: 680px) {
     .lead__title {
-        font-size: 54px;
+        font-size: 70px;
+    }
+}
+
+@media screen and (max-width: 493px) {
+    .lead__title {
+        font-size: 55px;
     }
 }
 

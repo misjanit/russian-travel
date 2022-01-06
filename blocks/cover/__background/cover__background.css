@@ -16,6 +16,7 @@
     z-index: 0;
     text-decoration: none;
     color: white;
+    margin: 0 auto;
 }
 
 .cover__background::before {
