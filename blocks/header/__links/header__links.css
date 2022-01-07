@@ -1,15 +1,7 @@
 .header__links {
-    max-width: 78px;
-    width: 100%;
     margin: 0px 0px 0px auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
-}
-
-@media screen and (max-width: 320px) {
-    .header__links {
-        width: 62px;
-    }
 }
